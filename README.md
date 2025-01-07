@@ -111,7 +111,7 @@ jobs:
 - Ưu
   - Có API/CLI và GUI
 - Nhược
-  - Deprecated
+  - Discontinued
 - License
   - Arachni Public Source License Version 1.0
 ## 4. OpenVAS
@@ -142,7 +142,7 @@ jobs:
 - Tích hợp vào CI/CD pipeline
 # Kết luận
 - OpenVAS không thích hợp vì quét lâu và scope lớn
-- Arachni không thích hợp vì deprecated
+- Arachni không thích hợp vì Discontinued
 - Nikto và ZAP phù hợp, có thể tích hợp vào gitea bằng cách
   - Sử dụng image docker trong CI/CD Pipeline
   - Chỉnh sửa code action để phù hợp với gitea
