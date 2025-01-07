@@ -3,7 +3,7 @@ DAST là phương pháp testing black-box để tìm lỗ hổng trên webabb/AP
 DAST tìm lỗ hổng bằng cách  phân tích app đang chạy từ frontend và mô phỏng tấn công giống như hacker làm.
 ### Quy trình hoạt động
 Quy trình hoạt động của DAST thường gồm các bước:
-- Quét để xác định các form, API, URL và gửi request đến chúng
+- Quét để xác định các form, API, URL và gửi request
 - Phân tích response để tìm các bất thường 
 - Giả lập tấn công vào các thành phần tìm được ở b2
 - report
